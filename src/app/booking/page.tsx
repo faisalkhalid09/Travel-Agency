@@ -94,7 +94,7 @@ const BookingContent = () => {
   return (
     <Layout>
       {/* Progress Header */}
-      <div className="bg-gradient-travel py-8">
+      <div className="py-8" style={{ background: 'linear-gradient(135deg, #ff7849 0%, #ff9a56 25%, #ffb366 50%, #ff8c42 75%, #ff6b35 100%)' }}>
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <h1 className="text-3xl font-bold text-white mb-8">Complete Your Booking</h1>
           
