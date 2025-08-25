@@ -1,0 +1,23 @@
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
+watchPatterns = ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"]
+
+[deploy]
+startCommand = "node server.js"
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3
+
+[[services]]
+serviceName = "wanderlust-travel"
+
+[services.healthcheckPath]
+path = "/"
+timeoutSeconds = 300
+intervalSeconds = 30
+
+[services.variables]
+PORT = "3000"
+NODE_ENV = "production"
+NEXT_TELEMETRY_DISABLED = "1"
+HOSTNAME = "0.0.0.0"

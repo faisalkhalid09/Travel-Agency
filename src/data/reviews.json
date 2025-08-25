@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "packageId": 1,
+    "customerName": "Sarah Johnson",
+    "rating": 5,
+    "date": "2025-08-15",
+    "title": "Incredible Bali Experience!",
+    "comment": "This trip exceeded all my expectations. The temple tours in Ubud were breathtaking, and the Mount Batur sunrise hike was absolutely magical. Our guide was knowledgeable and friendly throughout the journey. The accommodations were perfect and the cooking class was a highlight!",
+    "helpful": 24,
+    "verified": true
+  },
+  {
+    "id": 2,
+    "packageId": 1,
+    "customerName": "Michael Chen",
+    "rating": 4,
+    "date": "2025-08-10",
+    "title": "Great Adventure with Minor Issues",
+    "comment": "Overall fantastic trip to Bali. The itinerary was well-planned and we saw so many beautiful places. Only minor complaint was the hotel in Seminyak could have been better, but everything else was perfect. Would definitely book again!",
+    "helpful": 18,
+    "verified": true
+  },
+  {
+    "id": 3,
+    "packageId": 2,
+    "customerName": "Emma Rodriguez",
+    "rating": 5,
+    "date": "2025-07-28",
+    "title": "Morocco - A Dream Come True",
+    "comment": "The Morocco desert expedition was absolutely incredible! Riding camels into the Sahara at sunset was like something out of a movie. The desert camp was luxurious and comfortable. Marrakech was vibrant and exciting. Cannot recommend this trip enough!",
+    "helpful": 31,
+    "verified": true
+  },
+  {
+    "id": 4,
+    "packageId": 3,
+    "customerName": "David Wilson",
+    "rating": 4,
+    "date": "2025-07-20",
+    "title": "Northern Lights Magic",
+    "comment": "Iceland was stunning! We were lucky enough to see the Northern Lights on two different nights. The Blue Lagoon was relaxing and the Golden Circle tour showed us incredible natural wonders. The glacier hike was challenging but rewarding.",
+    "helpful": 22,
+    "verified": true
+  },
+  {
+    "id": 5,
+    "packageId": 4,
+    "customerName": "Lisa Park",
+    "rating": 5,
+    "date": "2025-07-12",
+    "title": "Perfect Family Trip to Japan",
+    "comment": "Traveled with my teenage kids and everyone had an amazing time. The bullet train experience was thrilling, the temples in Kyoto were serene and beautiful, and Tokyo was an exciting blend of modern and traditional. The sushi making class was educational and fun!",
+    "helpful": 28,
+    "verified": true
+  },
+  {
+    "id": 6,
+    "packageId": 5,
+    "customerName": "Robert Martinez",
+    "rating": 5,
+    "date": "2025-06-30",
+    "title": "Tuscany - Wine Lover's Paradise",
+    "comment": "As wine enthusiasts, this trip was perfect for us. The Chianti region is absolutely beautiful, and we learned so much about Italian winemaking. The cooking classes were fantastic, and Florence's art scene is unmatched. Highly recommended for couples!",
+    "helpful": 26,
+    "verified": true
+  },
+  {
+    "id": 7,
+    "packageId": 6,
+    "customerName": "Jennifer Taylor",
+    "rating": 4,
+    "date": "2025-06-25",
+    "title": "Costa Rica Adventure",
+    "comment": "Amazing wildlife and adventure activities! The zip-lining through the cloud forest was exhilarating. We saw so many animals including sloths, monkeys, and colorful birds. The beaches in Manuel Antonio were pristine. Great eco-tourism experience.",
+    "helpful": 20,
+    "verified": true
+  },
+  {
+    "id": 8,
+    "packageId": 1,
+    "customerName": "Alex Thompson",
+    "rating": 5,
+    "date": "2025-06-18",
+    "title": "Bali Honeymoon Perfection",
+    "comment": "Used this for our honeymoon and it was absolutely perfect. The romantic settings, especially the beach dinners in Seminyak, were unforgettable. The spa treatments were world-class and the cultural experiences gave us great insights into Balinese traditions.",
+    "helpful": 33,
+    "verified": true
+  },
+  {
+    "id": 9,
+    "packageId": 2,
+    "customerName": "Maria Santos",
+    "rating": 5,
+    "date": "2025-06-10",
+    "title": "Moroccan Magic",
+    "comment": "The colors, sounds, and smells of Morocco are unforgettable. The medina in Marrakech is like stepping back in time, and sleeping under the stars in the Sahara was a once-in-a-lifetime experience. Our guide was excellent and very informative.",
+    "helpful": 25,
+    "verified": true
+  },
+  {
+    "id": 10,
+    "packageId": 3,
+    "customerName": "James Lee",
+    "rating": 4,
+    "date": "2025-06-05",
+    "title": "Iceland's Natural Wonders",
+    "comment": "Iceland's landscapes are otherworldly! The geysers, waterfalls, and glaciers were all spectacular. We were fortunate with the weather and had great Northern Lights viewing. The only downside was the high cost of meals, but that's expected in Iceland.",
+    "helpful": 19,
+    "verified": true
+  }
+]

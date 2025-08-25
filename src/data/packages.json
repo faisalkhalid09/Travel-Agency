@@ -1,0 +1,204 @@
+[
+  {
+    "id": 1,
+    "title": "Bali Paradise Adventure",
+    "location": "Bali, Indonesia",
+    "price": 1299,
+    "duration": "7 days, 6 nights",
+    "category": "adventure",
+    "image": "/images/bali-temple.jpg",
+    "rating": 4.8,
+    "reviewCount": 124,
+    "description": "Experience the magic of Bali with temple visits, volcano hikes, and pristine beaches. Perfect blend of adventure and relaxation.",
+    "highlights": [
+      "Visit ancient temples in Ubud",
+      "Sunrise hike at Mount Batur",
+      "Beach time in Seminyak",
+      "Traditional Balinese cooking class"
+    ],
+    "itinerary": [
+      {"day": 1, "title": "Arrival in Denpasar", "activities": ["Airport transfer", "Hotel check-in", "Welcome dinner"]},
+      {"day": 2, "title": "Ubud Temple Tour", "activities": ["Monkey Forest Sanctuary", "Tegallalang Rice Terraces", "Local market visit"]},
+      {"day": 3, "title": "Mount Batur Sunrise", "activities": ["Early morning volcano hike", "Natural hot springs", "Coffee plantation tour"]},
+      {"day": 4, "title": "Cultural Immersion", "activities": ["Balinese cooking class", "Traditional dance performance", "Spa treatment"]},
+      {"day": 5, "title": "Beach Day Seminyak", "activities": ["Beach relaxation", "Water sports", "Sunset dinner"]},
+      {"day": 6, "title": "Free Day", "activities": ["Shopping", "Optional activities", "Farewell dinner"]},
+      {"day": 7, "title": "Departure", "activities": ["Hotel check-out", "Airport transfer"]}
+    ],
+    "addOns": [
+      {"name": "Travel Insurance", "price": 89, "description": "Comprehensive coverage for your trip"},
+      {"name": "Extra Night in Seminyak", "price": 150, "description": "Extend your beach experience"},
+      {"name": "Private Transportation", "price": 200, "description": "Private car with driver"}
+    ],
+    "availableDates": ["2025-09-15", "2025-09-22", "2025-10-05", "2025-10-20", "2025-11-10"]
+  },
+  {
+    "id": 2,
+    "title": "Morocco Desert Expedition",
+    "location": "Marrakech & Sahara, Morocco",
+    "price": 1599,
+    "duration": "8 days, 7 nights",
+    "category": "adventure",
+    "image": "/images/morocco-desert.jpg",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "description": "Journey through imperial cities and experience the magic of the Sahara Desert with camel treks and desert camping.",
+    "highlights": [
+      "Explore vibrant Marrakech medina",
+      "Camel trek in Sahara Desert",
+      "Overnight in luxury desert camp",
+      "Visit ancient kasbahs"
+    ],
+    "itinerary": [
+      {"day": 1, "title": "Marrakech Arrival", "activities": ["Airport transfer", "Riad check-in", "Jemaa el-Fnaa square visit"]},
+      {"day": 2, "title": "Marrakech Discovery", "activities": ["Bahia Palace", "Saadian Tombs", "Majorelle Gardens"]},
+      {"day": 3, "title": "Atlas Mountains", "activities": ["Drive through Atlas Mountains", "Berber village visit", "Traditional lunch"]},
+      {"day": 4, "title": "Desert Journey", "activities": ["Travel to Merzouga", "Camel trek", "Desert camp arrival"]},
+      {"day": 5, "title": "Sahara Experience", "activities": ["Sunrise over dunes", "Desert activities", "Stargazing"]},
+      {"day": 6, "title": "Return Journey", "activities": ["Travel to Ouarzazate", "Kasbah visit", "Hotel stay"]},
+      {"day": 7, "title": "Back to Marrakech", "activities": ["Return to Marrakech", "Free time for shopping", "Farewell dinner"]},
+      {"day": 8, "title": "Departure", "activities": ["Hotel check-out", "Airport transfer"]}
+    ],
+    "addOns": [
+      {"name": "Travel Insurance", "price": 95, "description": "Comprehensive coverage for your trip"},
+      {"name": "Hot Air Balloon", "price": 250, "description": "Sunrise balloon ride over Marrakech"},
+      {"name": "Luxury Tent Upgrade", "price": 180, "description": "Premium desert camp accommodation"}
+    ],
+    "availableDates": ["2025-09-10", "2025-09-25", "2025-10-15", "2025-11-05", "2025-11-25"]
+  },
+  {
+    "id": 3,
+    "title": "Iceland Northern Lights",
+    "location": "Reykjavik & South Coast, Iceland",
+    "price": 1899,
+    "duration": "6 days, 5 nights",
+    "category": "luxury",
+    "image": "/images/iceland-northern-lights.jpg",
+    "rating": 4.7,
+    "reviewCount": 156,
+    "description": "Chase the magical Northern Lights while exploring Iceland's dramatic landscapes, geysers, and glaciers.",
+    "highlights": [
+      "Northern Lights hunting tours",
+      "Blue Lagoon geothermal spa",
+      "Golden Circle scenic route",
+      "Glacier hiking experience"
+    ],
+    "itinerary": [
+      {"day": 1, "title": "Reykjavik Arrival", "activities": ["Airport transfer", "Hotel check-in", "City walking tour"]},
+      {"day": 2, "title": "Golden Circle", "activities": ["Geysir geothermal area", "Gullfoss waterfall", "Thingvellir National Park"]},
+      {"day": 3, "title": "South Coast Adventure", "activities": ["Seljalandsfoss waterfall", "Skógafoss waterfall", "Black sand beaches"]},
+      {"day": 4, "title": "Glacier & Northern Lights", "activities": ["Glacier hiking", "Ice cave exploration", "Northern Lights tour"]},
+      {"day": 5, "title": "Blue Lagoon & Culture", "activities": ["Blue Lagoon spa", "Viking museum", "Northern Lights hunt"]},
+      {"day": 6, "title": "Departure", "activities": ["Hotel check-out", "Airport transfer"]}
+    ],
+    "addOns": [
+      {"name": "Travel Insurance", "price": 99, "description": "Comprehensive coverage for your trip"},
+      {"name": "Helicopter Tour", "price": 450, "description": "Aerial view of glaciers and volcanoes"},
+      {"name": "Premium Northern Lights", "price": 280, "description": "Private Northern Lights photography tour"}
+    ],
+    "availableDates": ["2025-10-01", "2025-10-15", "2025-11-01", "2025-11-15", "2025-12-01"]
+  },
+  {
+    "id": 4,
+    "title": "Japan Cultural Journey",
+    "location": "Tokyo, Kyoto & Mount Fuji, Japan",
+    "price": 2299,
+    "duration": "10 days, 9 nights",
+    "category": "family",
+    "image": "/images/japan-temple.jpg",
+    "rating": 4.9,
+    "reviewCount": 203,
+    "description": "Immerse yourself in Japanese culture, from bustling Tokyo to serene Kyoto temples and iconic Mount Fuji.",
+    "highlights": [
+      "Traditional ryokan experience",
+      "Sushi making class",
+      "Mount Fuji scenic views",
+      "Kyoto temple visits"
+    ],
+    "itinerary": [
+      {"day": 1, "title": "Tokyo Arrival", "activities": ["Narita airport transfer", "Hotel check-in", "Shibuya crossing"]},
+      {"day": 2, "title": "Modern Tokyo", "activities": ["Sensoji Temple", "Tokyo Skytree", "Harajuku district"]},
+      {"day": 3, "title": "Traditional Tokyo", "activities": ["Tsukiji fish market", "Imperial Palace", "Ginza shopping"]},
+      {"day": 4, "title": "Mount Fuji Day", "activities": ["Kawaguchi Lake", "Mount Fuji 5th station", "Onsen experience"]},
+      {"day": 5, "title": "Travel to Kyoto", "activities": ["Shinkansen bullet train", "Hotel check-in", "Gion district walk"]},
+      {"day": 6, "title": "Kyoto Temples", "activities": ["Fushimi Inari shrine", "Kiyomizu temple", "Bamboo grove"]},
+      {"day": 7, "title": "Nara Day Trip", "activities": ["Todaiji Temple", "Deer park", "Traditional lunch"]},
+      {"day": 8, "title": "Cultural Experience", "activities": ["Tea ceremony", "Sushi making class", "Geisha district"]},
+      {"day": 9, "title": "Return to Tokyo", "activities": ["Shinkansen return", "Free time", "Farewell dinner"]},
+      {"day": 10, "title": "Departure", "activities": ["Hotel check-out", "Airport transfer"]}
+    ],
+    "addOns": [
+      {"name": "Travel Insurance", "price": 119, "description": "Comprehensive coverage for your trip"},
+      {"name": "Extra Ryokan Night", "price": 300, "description": "Additional traditional inn experience"},
+      {"name": "Private Guide Service", "price": 400, "description": "Personal guide for 2 days"}
+    ],
+    "availableDates": ["2025-09-05", "2025-09-20", "2025-10-10", "2025-10-25", "2025-11-15"]
+  },
+  {
+    "id": 5,
+    "title": "Tuscany Wine & Culture",
+    "location": "Florence & Chianti, Italy",
+    "price": 1799,
+    "duration": "7 days, 6 nights",
+    "category": "luxury",
+    "image": "/images/tuscany-vineyard.jpg",
+    "rating": 4.8,
+    "reviewCount": 142,
+    "description": "Indulge in the finest wines, Renaissance art, and culinary delights of Tuscany's rolling countryside.",
+    "highlights": [
+      "Wine tastings in Chianti",
+      "Cooking classes with local chefs",
+      "Florence art museum tours",
+      "Luxury villa accommodation"
+    ],
+    "itinerary": [
+      {"day": 1, "title": "Florence Arrival", "activities": ["Airport transfer", "Villa check-in", "Welcome dinner"]},
+      {"day": 2, "title": "Florence Renaissance", "activities": ["Uffizi Gallery", "Duomo cathedral", "Ponte Vecchio"]},
+      {"day": 3, "title": "Chianti Wine Tour", "activities": ["Vineyard visits", "Wine tastings", "Traditional lunch"]},
+      {"day": 4, "title": "Cooking Experience", "activities": ["Market visit", "Cooking class", "Dinner with wine pairing"]},
+      {"day": 5, "title": "Siena Day Trip", "activities": ["Siena cathedral", "Piazza del Campo", "Medieval streets"]},
+      {"day": 6, "title": "Spa & Relaxation", "activities": ["Thermal spa visit", "Villa relaxation", "Farewell dinner"]},
+      {"day": 7, "title": "Departure", "activities": ["Villa check-out", "Airport transfer"]}
+    ],
+    "addOns": [
+      {"name": "Travel Insurance", "price": 95, "description": "Comprehensive coverage for your trip"},
+      {"name": "Private Wine Tour", "price": 350, "description": "Exclusive winery visits with sommelier"},
+      {"name": "Truffle Hunting", "price": 200, "description": "Traditional truffle hunting experience"}
+    ],
+    "availableDates": ["2025-09-08", "2025-09-22", "2025-10-06", "2025-10-20", "2025-11-03"]
+  },
+  {
+    "id": 6,
+    "title": "Costa Rica Eco Adventure",
+    "location": "San José & Manuel Antonio, Costa Rica",
+    "price": 1199,
+    "duration": "8 days, 7 nights",
+    "category": "adventure",
+    "image": "/images/costa-rica-jungle.jpg",
+    "rating": 4.7,
+    "reviewCount": 98,
+    "description": "Explore Costa Rica's incredible biodiversity with zip-lining, wildlife spotting, and pristine beaches.",
+    "highlights": [
+      "Zip-lining through cloud forest",
+      "Wildlife spotting in national parks",
+      "Beach time in Manuel Antonio",
+      "Volcano and hot springs visit"
+    ],
+    "itinerary": [
+      {"day": 1, "title": "San José Arrival", "activities": ["Airport transfer", "Hotel check-in", "City tour"]},
+      {"day": 2, "title": "Arenal Volcano", "activities": ["Travel to Arenal", "Volcano national park", "Hot springs"]},
+      {"day": 3, "title": "Cloud Forest Adventure", "activities": ["Monteverde reserve", "Zip-lining", "Night wildlife walk"]},
+      {"day": 4, "title": "Pacific Coast", "activities": ["Travel to Manuel Antonio", "Beach time", "Sunset viewing"]},
+      {"day": 5, "title": "Wildlife & Nature", "activities": ["Manuel Antonio National Park", "Sloth spotting", "Beach activities"]},
+      {"day": 6, "title": "Adventure Activities", "activities": ["White water rafting", "Canopy tour", "Local village visit"]},
+      {"day": 7, "title": "Beach Relaxation", "activities": ["Free beach day", "Optional activities", "Farewell dinner"]},
+      {"day": 8, "title": "Departure", "activities": ["Hotel check-out", "Airport transfer"]}
+    ],
+    "addOns": [
+      {"name": "Travel Insurance", "price": 79, "description": "Comprehensive coverage for your trip"},
+      {"name": "Extra Beach Days", "price": 120, "description": "Extend your Manuel Antonio stay"},
+      {"name": "Wildlife Photography Tour", "price": 180, "description": "Professional guide for wildlife photos"}
+    ],
+    "availableDates": ["2025-09-12", "2025-09-26", "2025-10-10", "2025-10-24", "2025-11-07"]
+  }
+]

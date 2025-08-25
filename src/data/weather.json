@@ -1,0 +1,164 @@
+[
+  {
+    "city": "Bali",
+    "country": "Indonesia",
+    "current": {
+      "temperature": 28,
+      "condition": "partly cloudy",
+      "feelsLike": 32,
+      "humidity": 78,
+      "windSpeed": 12,
+      "visibility": 10,
+      "uvIndex": 8
+    },
+    "forecast": [
+      {"day": "Today", "high": 30, "low": 24, "condition": "partly cloudy"},
+      {"day": "Tomorrow", "high": 31, "low": 25, "condition": "sunny"},
+      {"day": "Tuesday", "high": 29, "low": 23, "condition": "rainy"},
+      {"day": "Wednesday", "high": 28, "low": 24, "condition": "cloudy"},
+      {"day": "Thursday", "high": 30, "low": 25, "condition": "partly cloudy"},
+      {"day": "Friday", "high": 32, "low": 26, "condition": "sunny"},
+      {"day": "Saturday", "high": 29, "low": 24, "condition": "rainy"}
+    ],
+    "bestTime": {
+      "peak": "April - October",
+      "good": "March - November",
+      "avoid": "December - February (Rainy Season)"
+    }
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "current": {
+      "temperature": 35,
+      "condition": "sunny",
+      "feelsLike": 38,
+      "humidity": 35,
+      "windSpeed": 8,
+      "visibility": 12,
+      "uvIndex": 10
+    },
+    "forecast": [
+      {"day": "Today", "high": 36, "low": 22, "condition": "sunny"},
+      {"day": "Tomorrow", "high": 37, "low": 23, "condition": "sunny"},
+      {"day": "Tuesday", "high": 34, "low": 21, "condition": "partly cloudy"},
+      {"day": "Wednesday", "high": 33, "low": 20, "condition": "cloudy"},
+      {"day": "Thursday", "high": 35, "low": 22, "condition": "sunny"},
+      {"day": "Friday", "high": 38, "low": 24, "condition": "sunny"},
+      {"day": "Saturday", "high": 36, "low": 23, "condition": "partly cloudy"}
+    ],
+    "bestTime": {
+      "peak": "March - May, September - November",
+      "good": "February, December",
+      "avoid": "June - August (Extreme Heat)"
+    }
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "current": {
+      "temperature": 8,
+      "condition": "cloudy",
+      "feelsLike": 5,
+      "humidity": 82,
+      "windSpeed": 25,
+      "visibility": 8,
+      "uvIndex": 2
+    },
+    "forecast": [
+      {"day": "Today", "high": 10, "low": 5, "condition": "cloudy"},
+      {"day": "Tomorrow", "high": 12, "low": 6, "condition": "rainy"},
+      {"day": "Tuesday", "high": 9, "low": 3, "condition": "partly cloudy"},
+      {"day": "Wednesday", "high": 11, "low": 4, "condition": "cloudy"},
+      {"day": "Thursday", "high": 13, "low": 7, "condition": "sunny"},
+      {"day": "Friday", "high": 15, "low": 8, "condition": "partly cloudy"},
+      {"day": "Saturday", "high": 12, "low": 6, "condition": "rainy"}
+    ],
+    "bestTime": {
+      "peak": "June - August",
+      "good": "May, September",
+      "avoid": "November - March (Harsh Winter)"
+    }
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "current": {
+      "temperature": 22,
+      "condition": "clear",
+      "feelsLike": 24,
+      "humidity": 65,
+      "windSpeed": 10,
+      "visibility": 15,
+      "uvIndex": 6
+    },
+    "forecast": [
+      {"day": "Today", "high": 24, "low": 18, "condition": "clear"},
+      {"day": "Tomorrow", "high": 25, "low": 19, "condition": "partly cloudy"},
+      {"day": "Tuesday", "high": 23, "low": 17, "condition": "rainy"},
+      {"day": "Wednesday", "high": 21, "low": 16, "condition": "cloudy"},
+      {"day": "Thursday", "high": 26, "low": 20, "condition": "sunny"},
+      {"day": "Friday", "high": 27, "low": 21, "condition": "sunny"},
+      {"day": "Saturday", "high": 24, "low": 18, "condition": "partly cloudy"}
+    ],
+    "bestTime": {
+      "peak": "March - May, September - November",
+      "good": "February, December",
+      "avoid": "June - August (Hot & Humid)"
+    }
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "current": {
+      "temperature": 26,
+      "condition": "sunny",
+      "feelsLike": 28,
+      "humidity": 55,
+      "windSpeed": 7,
+      "visibility": 12,
+      "uvIndex": 7
+    },
+    "forecast": [
+      {"day": "Today", "high": 28, "low": 20, "condition": "sunny"},
+      {"day": "Tomorrow", "high": 29, "low": 21, "condition": "partly cloudy"},
+      {"day": "Tuesday", "high": 27, "low": 19, "condition": "cloudy"},
+      {"day": "Wednesday", "high": 25, "low": 18, "condition": "rainy"},
+      {"day": "Thursday", "high": 30, "low": 22, "condition": "sunny"},
+      {"day": "Friday", "high": 31, "low": 23, "condition": "sunny"},
+      {"day": "Saturday", "high": 28, "low": 20, "condition": "partly cloudy"}
+    ],
+    "bestTime": {
+      "peak": "April - June, September - October",
+      "good": "March, November",
+      "avoid": "July - August (Very Hot)"
+    }
+  },
+  {
+    "city": "San José",
+    "country": "Costa Rica",
+    "current": {
+      "temperature": 24,
+      "condition": "rainy",
+      "feelsLike": 27,
+      "humidity": 85,
+      "windSpeed": 15,
+      "visibility": 6,
+      "uvIndex": 4
+    },
+    "forecast": [
+      {"day": "Today", "high": 26, "low": 19, "condition": "rainy"},
+      {"day": "Tomorrow", "high": 27, "low": 20, "condition": "cloudy"},
+      {"day": "Tuesday", "high": 25, "low": 18, "condition": "rainy"},
+      {"day": "Wednesday", "high": 28, "low": 21, "condition": "partly cloudy"},
+      {"day": "Thursday", "high": 29, "low": 22, "condition": "sunny"},
+      {"day": "Friday", "high": 26, "low": 20, "condition": "rainy"},
+      {"day": "Saturday", "high": 27, "low": 21, "condition": "cloudy"}
+    ],
+    "bestTime": {
+      "peak": "December - April (Dry Season)",
+      "good": "November, May",
+      "avoid": "September - October (Heavy Rains)"
+    }
+  }
+]
